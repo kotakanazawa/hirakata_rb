@@ -25,6 +25,7 @@ we charge after you use the service. please come to the counter after you are fi
 
 ## 「ガ」の数を数えよ
 
+```
 <<~LYRICS
 ガガッ ガガガッ ガオガイガー!
 ガガガッ ガガガガッ ガオガイガー!!
@@ -60,3 +61,4 @@ we charge after you use the service. please come to the counter after you are fi
 ヒーロー! くろがねの巨神 ぼくらの勇者王!
 ガッガッガッガッ ガオガイガー!!
 <<LYRICS
+```
